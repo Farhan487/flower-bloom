@@ -1,7 +1,6 @@
 ⚠️ Originally this project is not by me its by a youtuber name "Pei pei in the fridge"
 you can find her tutorial here -> https://youtu.be/KGALeCnTTbg?si=8v009IjYwhhj0Hqc
 
-## I Learnt To Make This From Her 😋
 
 ## How To Use It :-
 
